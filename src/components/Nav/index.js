@@ -14,6 +14,10 @@ const categories = [
     },
   ];
 
+function categorySelected() {
+    console.log("hello")
+}
+
 function Nav() {
 
   return (
