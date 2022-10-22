@@ -35,11 +35,3 @@ describe('links are visible', () => {
   });
 
 })
-
-describe('links are visible', () => {
-    it('inserts text into the links', () => {
-        
-      // Arrange
-      // Assert
-    });
-})
