@@ -15,5 +15,18 @@ describe('About component', () => {
         // render About
         const { asFragment } = render(<About />);
         expect(asFragment()).toMatchSnapshot();
-      });
-  })
+    });
+});
+
+describe('Nav component', () => {
+    // baseline test
+    it('renders', () => {
+        render(<Nav />);
+    });
+
+    // snapshot test
+    it('matches snapshot', () => {
+        const { asFragment } = render(<Nav />);
+        // assert value comparison
+    });
+})
