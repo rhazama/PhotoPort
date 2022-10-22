@@ -17,3 +17,10 @@ describe('About component', () => {
         expect(asFragment()).toMatchSnapshot();
     });
 })
+
+describe('emoji is visible', () => {
+    it('inserts emoji into the h2', () => {
+    // Arrange
+    // Assert
+    })
+})
