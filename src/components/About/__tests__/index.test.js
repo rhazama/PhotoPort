@@ -14,5 +14,4 @@ describe('About component', () => {
     it('matches snapshot DOM node structure', () => {
         // render About
       });
-    // Second Test
   })
