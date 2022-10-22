@@ -25,5 +25,12 @@ describe('emoji is visible', () => {
   
     expect(getByLabelText('camera')).toHaveTextContent('📸');
     });
-  })
-  
+})
+
+describe('links are visible', () => {
+    it('inserts text into the links', () => {
+        
+      // Arrange
+      // Assert
+    });
+})
