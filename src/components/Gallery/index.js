@@ -1,4 +1,5 @@
 import React from 'react';
+import { capitalizeFirstLetter } from '../../utils/helpers';
 
 function Gallery(props) {
   const currentCategory = {
@@ -8,7 +9,7 @@ function Gallery(props) {
   };
   return (
     <section>
-      <h1>{currentCategory.name}</h1>
+      <h1>{capitalizeFirstLetter(currentCategory.name)}</h1>
       <p>{currentCategory.name}</p>
     </section>
   );
