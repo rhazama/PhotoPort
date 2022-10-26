@@ -4,7 +4,9 @@ function Modal() {
 
     return (
       <div className="modalBackdrop">
-      
+        <div className="modalContainer">
+
+        </div>
       </div>
 
       );
