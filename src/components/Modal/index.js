@@ -3,8 +3,11 @@ import React from 'react';
 function Modal() {
 
     return (
-      // JSX
-    );
+      <div className="modalBackdrop">
+      
+      </div>
+
+      );
   }
   
   export default Modal;
