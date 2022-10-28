@@ -2,6 +2,9 @@ import React from 'react';
 
 function Modal() {
 
+  const [currentPhoto, setCurrentPhoto] = useState();
+ 
+
     return (
       <div className="modalBackdrop">
         <div className="modalContainer">
