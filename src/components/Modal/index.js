@@ -6,6 +6,7 @@ function Modal() {
   const toggleModal = (image, i) => {
     setCurrentPhoto({...image, index: i});
   }
+  <Modal currentPhoto={currentPhoto}></Modal>
 
     return (
       <div className="modalBackdrop">
