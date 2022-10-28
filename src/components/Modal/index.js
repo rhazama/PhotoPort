@@ -3,7 +3,9 @@ import React from 'react';
 function Modal() {
 
   const [currentPhoto, setCurrentPhoto] = useState();
- 
+  const toggleModal = (image, i) => {
+    setCurrentPhoto({...image, index: i});
+  }
 
     return (
       <div className="modalBackdrop">
