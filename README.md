@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-Description
+A portfolio for a photographer using react.
 <br />
 <br />
 You can run the application by running the following link: <Insert Link>
@@ -18,7 +18,7 @@ You can run the application by running the following link: <Insert Link>
 ## Installation
 You can access the application through the link above.
 ## Usage
-For users looking to find information about the weather in their or other local cities.
+Sample of a photographer's website.
 ## License
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
