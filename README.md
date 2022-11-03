@@ -3,7 +3,7 @@
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 
 ## Description
-A portfolio for a photographer using react.
+Photographer's portfolio using react.
 <br />
 <br />
 You can run the application by running the following link: <Insert Link>
