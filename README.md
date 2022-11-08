@@ -6,7 +6,7 @@
 Photographer's portfolio using react.
 <br />
 <br />
-You can run the application by running the following link: https://rhazama.github.io/PhotoPort/
+You can run the application by clicking the following link: https://rhazama.github.io/PhotoPort/
 
 ## Table of Contents
 - [Description](#description)
