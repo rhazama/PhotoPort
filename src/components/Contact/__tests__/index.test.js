@@ -17,7 +17,7 @@ describe('Contact component', () => {
   })
 })
 
-//fix renders and getTestById
+//fix renders and getTestById; Says to fix it by adding screens.getTestId
 it('renders', () => {
   const { getByTestId } = render(<Contact />)
   expect(getByTestId('h1tag')).toHaveTextContent('Contact me')
