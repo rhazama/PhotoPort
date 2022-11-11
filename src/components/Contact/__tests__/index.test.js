@@ -6,6 +6,7 @@ import Contact from '..'
 
 afterEach(cleanup)
 
+//Fix renders
 describe('Contact component', () => {
   it('renders', () => {
     render(<Contact />);
